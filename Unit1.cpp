@@ -1,12 +1,4 @@
 //---------------------------------------------------------------------------
-/*HW FROM 11/2
-
-x Make the score visible
-x Reset - click on Game Over and it resets
-x Every 3 points it gets faster - change sleep
-	int sleep
- Timer for each round (from start to game over)*/
-
 #include <vcl.h>
 #pragma hdrstop
 
